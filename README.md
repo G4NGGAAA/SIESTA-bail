@@ -12,8 +12,8 @@
     <a href="https://www.npmjs.com/package/@g4nggaa/SIESTA-bail">
       <img src="https://img.shields.io/npm/v/@g4nggaa/SIESTA-bail?color=blueviolet&label=version&logo=npm" alt="npm version" />
     </a>
-    <a href="https://www.npmjs.com/package/@g4nggaa/SIESTA-bail">
-      <img src="https://img.shields.io/npm/dt/@g4nggaa/SIESTA-bail?color=blueviolet&label=downloads&logo=npm" alt="npm downloads" />
+    <a href="https://www.npmjs.com/package/@g4nggaa/siesta-bail">
+      <img src="https://img.shields.io/npm/dt/@g4nggaa/siesta-bail?color=blueviolet&label=downloads&logo=npm" alt="npm downloads" />
     </a>
     <a href="https://whatsapp.com/channel/0029Vb6DPnBIXnliEawZjb41">
       <img src="https://img.shields.io/badge/Join-WhatsApp%20Channel-25D366?logo=whatsapp&logoColor=white" alt="WhatsApp Channel" />
