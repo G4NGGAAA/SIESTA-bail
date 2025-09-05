@@ -9,8 +9,8 @@
 ---
 
   <p>
-    <a href="https://www.npmjs.com/package/@g4nggaa/SIESTA-bail">
-      <img src="https://img.shields.io/npm/v/@g4nggaa/SIESTA-bail?color=blueviolet&label=version&logo=npm" alt="npm version" />
+    <a href="https://www.npmjs.com/package/@g4nggaa/siesta-bail">
+      <img src="https://img.shields.io/npm/v/@g4nggaa/siesta-bail?color=blueviolet&label=version&logo=npm" alt="npm version" />
     </a>
     <a href="https://www.npmjs.com/package/@g4nggaa/siesta-bail">
       <img src="https://img.shields.io/npm/dt/@g4nggaa/siesta-bail?color=blueviolet&label=downloads&logo=npm" alt="npm downloads" />
