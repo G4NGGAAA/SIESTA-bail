@@ -15,7 +15,7 @@
     <a href="https://www.npmjs.com/package/@g4nggaa/SIESTA-bail">
       <img src="https://img.shields.io/npm/dt/@g4nggaa/SIESTA-bail?color=blueviolet&label=downloads&logo=npm" alt="npm downloads" />
     </a>
-    <a href="https://whatsapp.com/channel/0029VapYyKEGufIpsd3Rja2C">
+    <a href="https://whatsapp.com/channel/0029Vb6DPnBIXnliEawZjb41">
       <img src="https://img.shields.io/badge/Join-WhatsApp%20Channel-25D366?logo=whatsapp&logoColor=white" alt="WhatsApp Channel" />
     </a>
   </p>
@@ -40,19 +40,19 @@
 @whiskeysockets/baileys
 ```json
 "dependencies": {
-  "@whiskeysockets/baileys": "npm:@g4nggaa/SIESTA-bail"
+  "@whiskeysockets/baileys": "github:G4NGGAAA/SIESTA-bail"
 }
 ```
 @adiwajsing/baileys
 ```json
 "dependencies": {
-  "@adiwajshing/baileys": "npm:@g4nggaa/SIESTA-bail"
+  "@adiwajshing/baileys": "github:G4NGGAAA/SIESTA-bail"
 }
 ```
 
 Or via terminal
 ```bash
-npm install SIESTA-bail@npm:@g4nggaa/SIESTA-bail
+npm install @g4nggaa/SIESTA-bail
 ```
 
 Importing (**for those who don't fork another repository**)
@@ -207,7 +207,7 @@ Please open an issue at  [ *UNCOMING WEBSITE* ]
 Or contact the maintainer directly via WhatsApp:
 
 <p align="center">
-  <a href="https://wa.me/6285282530851" target="_blank">
+  <a href="https://wa.me/6285855962331" target="_blank">
     <img alt="WhatsApp" src="https://img.shields.io/badge/Chat%20on%20WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
   </a>
 </p>
